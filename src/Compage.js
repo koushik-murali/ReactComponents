@@ -10,8 +10,8 @@ export default function Compage() {
             <HostMod
               title="Hasura Super App: Building custom authentication with Hasura Actions"
               description="In today's show we'll look at the login actions for the Hasura Super App and talk about which behaviours could or should live in custom business logic handlers"
-              imgsrc="https://i.imgur.com/tGDtsHE.png"
-              imgsrc2="https://i.imgur.com/tGDtsHE.png"
+              imgsrc="https://i.imgur.com/rIVvOlq.png"
+              imgsrc2="https://i.imgur.com/rIVvOlq.png"
               />
               <ThreeColumnWrapper>
               <EventCard
