@@ -105,16 +105,16 @@ export function HostMod(props){
                             <img src={props.imgsrc}/>
                             <div className="hostName">
                                 <div className="tag">HOST</div>
-                                <b>Jesse Martin</b>,<br/>
-                                Technical product marketer, Hasura
+                                <b>Koushik Murali</b>,<br/>
+                                   Graphic Designer, Hasura
                             </div>
                         </div>
                         <div className="individualHost">
                             <img src={props.imgsrc2}/>
                             <div className="hostName">
                                 <div className="tag">HOST</div>
-                                <b>Jesse Martin</b>,<br/>
-                                Technical product marketer, Hasura
+                                <b>Koushik Murali</b>,<br/>
+                                Graphic Designer, Hasura
                             </div>
                         </div>
                     </HostImage>
