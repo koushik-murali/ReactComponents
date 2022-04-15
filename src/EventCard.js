@@ -39,7 +39,7 @@ const EventCardWrapper = styled.div`
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: 5%;
+    gap: 2%;
   }
   .EventDetails .EventDescription{
     line-height: 140%;
